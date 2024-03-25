@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T14:16:33.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.1.0" etag="0cSh5ENCJdRMPNQXd9Kl" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T14:38:04.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="l_mhVkLNHLAUAUdrAty6" version="24.1.0" type="github">
   <diagram name="第 1 页" id="WcA9FkUfxV4qfrpExhuk">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rXlfVrTM9umlqktRVRr8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXlfVrTM9umlqktRVRr8-1" target="rXlfVrTM9umlqktRVRr8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;&lt;font style=&quot;&quot;&gt;训练&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;&lt;font style=&quot;&quot;&gt;数据&lt;/font&gt;&lt;/span&gt;集&lt;/font&gt;&lt;/p&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXlfVrTM9umlqktRVRr8-3" target="rXlfVrTM9umlqktRVRr8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;模型工厂&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXlfVrTM9umlqktRVRr8-4" target="rXlfVrTM9umlqktRVRr8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据工厂&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXlfVrTM9umlqktRVRr8-5" target="rXlfVrTM9umlqktRVRr8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;训练工厂&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="190" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXlfVrTM9umlqktRVRr8-6" target="rXlfVrTM9umlqktRVRr8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;算法产品&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="190" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-9" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;NLP&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;多任务模型训练数据集、多模态大模型训练数据集、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;Agent&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;训练数据集&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-10" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;Llama&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;系列、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;GLM&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;系列、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;Telechat&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;系列等&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;LLM&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;为基础的大模型的统一加载&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="270" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-11" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;NLP&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;各类型任务的训练数据向量化建模、多模态大模型训练数据向量化建模、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;Agent&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;训练任务数据向量化建模，支持预训练、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;SFT&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;和&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;RLHF&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-12" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;句子级单&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;多标签文本分类、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;token&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;级单标签多分类、高维实体识别、三元组知识识别、事件认知、实体对齐、自动摘要、文本续写、知识问答、多轮对话、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;Agent&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;API&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;智能调用等&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-13" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;MHA/GQA&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;SDPA&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;NTK&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;、梯度累加、梯度检查点、混合训练、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;SFT&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;RLHF&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;lora&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;qlora&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;AgentTuning&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;、单卡、多卡等训练算法技术栈&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-14" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;等线&quot;&gt;多任务知识挖掘、问答、多轮对话、Agent智能体应用&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXlfVrTM9umlqktRVRr8-15" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;N&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
